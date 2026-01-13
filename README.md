@@ -1,7 +1,7 @@
 # 👋 Hola, soy Diego Ponce
 
-🎓 Tengo **18 años** y actualmente estoy finalizando mi etapa en mi institución educativa.  
-🚀 Hoy comienzo el camino hacia la **universidad**, con el objetivo de llevar conmigo todo el conocimiento posible para seguir evolucionando tanto como **desarrollador** como **persona**.
+🎓 Tengo **18 años** y el pasado 2025 finalice mi etapa en mi institución educativa.  
+🚀 Este 2026 comienzo el camino hacia la **universidad**, con el objetivo de llevar conmigo todo el conocimiento posible para seguir evolucionando tanto como **desarrollador** como **persona**.
 
 Me apasiona la tecnología, el aprendizaje constante y la creación de soluciones que aporten valor. Busco seguir creciendo en el mundo del desarrollo de software, enfrentando nuevos desafíos y mejorando mis habilidades día a día.
 
@@ -23,7 +23,7 @@ Me apasiona la tecnología, el aprendizaje constante y la creación de solucione
 - Fortalecer mis bases en **desarrollo web**
 - Aprender mejores prácticas y buenas arquitecturas
 - Prepararme para nuevos retos académicos y profesionales
-
+- Mejora continua en diseños tanto de webs como programas
 ---
 
 ## 🌱 Siempre aprendiendo
